@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anish Ali
 - 👀 I’m a MERN STACK DEVELOPER with 2 years of experience 
-- 📫 How to reach me = What'sapp "+923049050679"
+- 📫 How to reach me = Email ansihali1221@gmail.com
