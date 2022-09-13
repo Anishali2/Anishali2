@@ -1,6 +1,5 @@
 <h1 >Anish Ali</h1>
 
-https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 * [![HTML][HTML]][Next-url]
 * [![CSS][CSS]][Next-url]
 * [![Next][Next.js]][Next-url]
