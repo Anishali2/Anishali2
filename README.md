@@ -4,13 +4,9 @@
 <br/>
 [![CSS][CSS]][Next-url]
 <br/>
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
-<br/>
 [![Javascript][Javascript]][HTML-url]
 <br/>
 [![React][React.js]][React-url]
-<br/>
-[![React Native][React Native]][React-Native-url]
 <br/>
 [![Next][Next.js]][Next-url]
 <br/>
@@ -31,26 +27,12 @@
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React Native]: https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[React-Native-url]: https://reactnative.dev/
 
 ## Contact 
 Phone No:
 +92 304 9050 679
-Email:
-ansihali1221@gmail.com
+
