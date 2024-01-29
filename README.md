@@ -33,6 +33,6 @@
 [React-url]: https://reactjs.org/
 
 ## Contact 
-Phone No:
-+92 304 9050 679
+Mail:
+ansihali1221@gmail.com
 
